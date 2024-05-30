@@ -10,7 +10,7 @@ Este ebook é uma obra criada para inspirar e empoderar jovens negros a ingressa
 
 - **Conteúdo**: Gerado com a ajuda do ChatGPT
 - **Imagens**: Criadas com Leonardo AI
-- **Diagramação**: Realizada por mim, [Senhorinha Joana Alves], no PowerPoint
+- **Diagramação**: Realizada por mim, Senhorinha Joana Alves, no PowerPoint
 
 ## 🚀 Habilidades Desenvolvidas
 
@@ -24,7 +24,7 @@ Durante a realização deste projeto, desenvolvi diversas habilidades importante
 
 ## 📖 Leia o Ebook
 
-[Link para o Ebook]()
+[Códigos de Futuro -Tecnologia e Empoderamento da Juventude Negra.pdf]()
 
 ## 🌐 Conecte-se Comigo
 
