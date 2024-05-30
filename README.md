@@ -26,13 +26,8 @@ Durante a realização deste projeto, desenvolvi diversas habilidades importante
 
 [Códigos de Futuro -Tecnologia e Empoderamento da Juventude Negra.pdf]()
 
-## 🌐 Conecte-se Comigo
-
-- **LinkedIn**: [Seu LinkedIn](#)
-- **GitHub**: [Seu GitHub](#)
-- **Email**: [Seu Email](#)
 
 ## 🎉 Agradecimentos
 
-Agradeço ao Santander pelo incrível Bootcamp e a todos os colegas e mentores que contribuíram para essa jornada de aprendizado e crescimento.
+Agradeço ao Santander e a DIO(Digital Inivatio One) pelo incrível Bootcamp e a todos os colegas e mentores que contribuíram para essa jornada de aprendizado e crescimento.
 
